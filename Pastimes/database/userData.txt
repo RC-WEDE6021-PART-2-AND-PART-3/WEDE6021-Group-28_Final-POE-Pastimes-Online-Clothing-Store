@@ -1,0 +1,34 @@
+Sheketli Mochaki	s.mocha@abc.co.za	s.mocah	29ef52e7563626a96cea74b4085c124	buyer
+Lufuno Makhado	l.makhado@gmail.com	l.makhado	29ef52e7563626a96cea74b4085c124	seller
+Katlego Joshua	m.johnson@outlook.com	K.Joshua	29ef52e7563626a96cea74b4085c124	both
+Priya Naidoo	p.naidoo@webmail.co.za	priya_n	29ef52e7563626a96cea74b4085c124	buyer
+Lebo Dlamini	lebo.d@ymail.com	lebod	29ef52e7563626a96cea74b4085c124	seller
+Thabo Nkosi	thabo.n@gmail.com	thabo_n	29ef52e7563626a96cea74b4085c124	both
+Aisha Patel	aisha.p@yahoo.com	aisha_p	29ef52e7563626a96cea74b4085c124	seller
+Lerato Dlamini	lerato.d@outlook.com	lerato_d	29ef52e7563626a96cea74b4085c124	buyer
+Sipho Mokoena	sipho.m@gmail.com	sipho_m	29ef52e7563626a96cea74b4085c124	both
+Zanele Khumalo	zanele.k@ymail.com	zanele_k	29ef52e7563626a96cea74b4085c124	buyer
+Katlago	kg@gmail.com	KG_14	182382c2609c1c428b04017f66e9cf6c	seller	pending
+update_status	11	active	2026-05-04T19:35:13+02:00
+delete	11	2026-05-04T19:43:21+02:00
+Ria	ria77@gmail.com	ria_123	182382c2609c1c428b04017f66e9cf6c	buyer	pending
+update_status	12	active	2026-05-27T18:41:17+02:00
+Nathan	mulaudzi01@gmail.com	Junior_baby	7b2475706fc87b6afd19827431318097	buyer	pending
+update_status	13	active	2026-06-02T11:46:48+02:00
+Nathan	mulaudzi02@gmail.com	Junior_babySeller	7b2475706fc87b6afd19827431318097	seller	pending
+update_status	14	active	2026-06-02T11:48:58+02:00
+Lesego	lesegonkambule@gmail.com	khados_bubu	6efb89d5eef2fe52a9ea51a38bdcc6f3	seller	pending
+update_status	15	active	2026-06-02T12:21:17+02:00
+Rotondwa	makhadorotondwa@gmail.com	Desree_roto	18e384c59abd63d6fe9047f17512220e	seller	pending
+update_status	16	active	2026-06-02T12:56:58+02:00
+lufuno	makhado@gmail.com	lufuno_rii	05e2b63a02f5fa5e817f4165dfc6e4aa	buyer	pending
+update_status	17	active	2026-06-03T15:26:12+02:00
+tamar	phago@gmail.com	tamar_lili	588e56783744d984648ac5c94174bc11	seller	pending
+update_status	18	active	2026-06-03T15:41:40+02:00
+KABELO	kabelomm@gmail.com	KB_RIA	018ec41ab0bdef881a65a54ea423ff71	buyer	pending
+update_status	19	active	2026-06-08T14:27:25+02:00
+admin_update	20	lesedi gobile	gobilelesedi@gmail.com	sedi_2	customer	active	2026-06-08T15:31:00+02:00
+delete	20	2026-06-08T15:32:19+02:00
+Sheketli Mochaki	sheketlim@gmail.com	SMM_77	57ed1831ee91424bbf1ae336ad2847b7	buyer	pending
+update_status	22	active	2026-06-17T17:58:59+02:00
+delete	23	2026-06-17T18:26:18+02:00
